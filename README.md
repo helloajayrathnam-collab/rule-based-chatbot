@@ -15,3 +15,7 @@ rule-based-chatbot/
 ├── requirements.txt
 ├── .gitignore
 ├── LICENSE
+
+## How to Run
+```bash
+python chatbot.py
